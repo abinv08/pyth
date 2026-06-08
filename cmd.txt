@@ -1,0 +1,6 @@
+Ipconfig
+ping google.com
+tracert google.com
+traceroute google.com
+nslookup google.com
+pathping google.com
